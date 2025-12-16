@@ -6,6 +6,14 @@ Bu proje, HTML ve CSS kullanarak hazırlanmış modern bir ayakkabı alışveri�
 
 <hr>
 
+## 🌐 Website View
+
+<p align="center">
+  <img src="assets/shoes-web.gif" alt="Website View" width="900">
+</p>
+
+<hr>
+
 <h2>🌟 Özellikler</h2>
 
 <ul>
